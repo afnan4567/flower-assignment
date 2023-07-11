@@ -23,3 +23,243 @@ color:white;
 margin-bottom: 20px;
 
 }
+.feature-flowers{
+
+    margin-top: 140px;
+
+
+}
+.featured-container{
+
+text-align: center;
+
+
+
+}
+.feature-title{
+
+font-size: 1.8rem;
+margin-bottom: 20px;
+
+}
+.feature-description{
+
+font-size: 1.1rem;
+
+}
+
+.feature-pic{
+
+display: flex;
+gap:25px;
+align-items: center;
+justify-content: space-around;
+
+}
+.pic-1{
+
+
+width:200px;
+height: 200px;
+background-color: burlywood;
+border-radius: 250px 250px 0 0;
+padding:20px;
+
+
+
+}
+.pic-2{
+
+
+width:200px;
+height: 200px;
+background-color: coral;
+border-radius: 250px 250px 0 0;
+padding:20px;
+
+
+
+
+}
+.pic-3{
+
+
+width:200px;
+height: 200px;
+background-color:darkmagenta;
+border-radius: 250px 250px 0 0;
+padding:20px;
+
+
+
+}
+
+.pic-title{
+
+
+margin-left: 70px;
+text-decoration: underline;
+
+}
+
+.deal-container{
+
+display: flex;
+gap:20px;
+padding:25px;
+margin-top: 150px;
+align-items: center;
+background-color:hsla(347, 33%, 81%, 0.788);
+justify-content: space-around;
+
+}
+
+.red-flower{
+
+width:250px;
+height:260px;
+
+}
+
+.off{
+
+color:darkred;
+
+}
+.sign-up{
+
+color:white;
+background-color: brown;
+border-radius: 15px;
+border:none;
+padding:18px;
+margin-left: 90px;
+
+}
+
+
+
+.instagram-container{
+
+text-align: center;
+margin-top: 150px;
+
+}
+
+.instagram-title{
+
+font-size: 2.5rem;
+
+}
+.instagram-description{
+
+    font-size: 1.2rem;
+}
+
+.instagram-pic{
+
+display: flex;
+gap:25px;
+justify-content: space-around;
+
+}
+
+.rect-1{
+
+
+    width:200px;
+    height: 200px;
+    padding:20px;
+    background-color: beige;
+    
+    
+    
+    }
+    .rect-2{
+    
+    
+    width:200px;
+    height: 200px;
+    background-color: aquamarine;
+    padding:20px;
+    
+    
+    
+    
+    }
+    .rect-3{
+    
+    
+    width:200px;
+    height: 200px;
+    background-color:pink;
+    padding:20px;
+    
+    
+    
+    }
+    .rect-4{
+
+        width:200px;
+        height:200px;
+        background-color: aqua;
+        padding: 20px;
+    }
+.latest-deal-container{
+height:50vh;
+background-image: url('../Rectangle\ 9.png');
+background-size: cover;
+background-repeat: no-repeat;
+margin-top:120px;
+padding:20px;
+
+
+}
+
+.latest-deal-info{
+
+text-align: center;
+
+
+}
+.latest-deal-title{
+
+    font-size: 4rem;
+    margin-bottom: 15px;
+
+}
+input{
+
+width:60%;
+padding:20px;
+
+}
+
+.contact-container{
+margin-top: 150px;
+padding:30px;
+background-color: chartreuse;
+
+}
+.contact-info{
+
+    text-align: center;
+}
+
+footer{
+background-color: darkblue;
+color:white;
+padding:20px;
+margin-top:150px;
+
+
+}
+
+.footer-info{
+
+    text-align: center;
+}
+.footer-span{
+color:pink;
+
+}
