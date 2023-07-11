@@ -1,0 +1,25 @@
+.banner-container{
+
+
+background-image: url('../pngwing\ 6.png');
+background-position: right bottom;
+background-size: contain;
+background-repeat: no-repeat;
+display: flex;
+align-items: center;
+justify-content: space-around;
+background-color: rgba(229, 84, 115, 0.10);
+
+
+}
+
+.btn{
+
+border:none;
+border-radius: 15px;
+padding:20px;
+background-color: brown;
+color:white;
+margin-bottom: 20px;
+
+}
